@@ -1,6 +1,6 @@
 function funcTool() {
     // ツールデータをJSONファイルから読み込む
-    fetch("javascript/json/data.json")
+    fetch("../json/data.json")
         .then(response => response.json())
         .then(data => {
             const table = document.getElementById("toolTable");

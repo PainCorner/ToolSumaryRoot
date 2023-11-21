@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: 游ゴシック;
     color: darkgreen;
-    background-image: url("image/wood.jpg");
+    background-image: url("../image/wood.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
